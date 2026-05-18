@@ -122,7 +122,7 @@
       { "destination": "Šibenik, Solaris",                   "km": 90,  "time": "01:30", "prices": { "1-2": 99,  "3-8": 114, "9-14": "On request" } },
       { "destination": "Trogir / Seget Donji",               "km": 30,  "time": "00:45", "prices": { "1-2": 55,  "3-8": 65,  "9-14": "On request" } },
       { "destination": "Zadar, Zadar Airport",               "km": 155, "time": "02:00", "prices": { "1-2": 180, "3-8": 190, "9-14": "On request" } },
-      { "destination": "Zagreb, Zagreb Airport",             "km": 443, "time": "04:30", "prices": { "1-2": 360, "3-8": 380, "9-14": "On request" } }
+      { "destination": "Zagreb, Zagreb Airport",             "km": 443, "time": "04:30", "prices": { "1-2": 460, "3-8": 480, "9-14": "On request" } }
     ]
   },
 

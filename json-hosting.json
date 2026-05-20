@@ -79,9 +79,7 @@
       { "destination": "Zaton, near Dubrovnik",              "km": 246, "time": "03:30", "prices": { "1-2": 310, "3-8": 340, "9-14": "On request" } },
       { "destination": "Zaton, near Šibenik",                "km": 75,  "time": "01:10", "prices": { "1-2": 90,  "3-8": 105, "9-14": "On request" } },
       { "destination": "Zaton (near Zadar)",       "km": 142, "time": "01:55", "prices": { "1-2": 185, "3-8": 205, "9-14": "On request" } },
-      { "destination": "Živogošće",                          "km": 118, "time": "01:45", "prices": { "1-2": 130, "3-8": 150, "9-14": "On request" } },
-      { "destination": "test route",                          "km": 118, "time": "01:45", "prices": { "1-2": 1, "3-8": 1, "9-14": "On request" } }
-
+      { "destination": "Živogošće",                          "km": 118, "time": "01:45", "prices": { "1-2": 130, "3-8": 150, "9-14": "On request" } }
     ],
     "Split Center": [
       { "destination": "Dubrovnik Airport",                  "km": 253, "time": "03:45", "prices": { "1-2": 305, "3-8": 325, "9-14": "On request" } },

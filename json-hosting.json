@@ -60,6 +60,7 @@
       { "destination": "Solaris (Šibenik)",                  "km": 65,  "time": "01:00", "prices": { "1-2": 85,  "3-8": 100, "9-14": "On request" } },
       { "destination": "Solin",                              "km": 20,  "time": "00:30", "prices": { "1-2": 40,  "3-8": 45,  "9-14": "On request" } },
       { "destination": "Split center (ferry port)",          "km": 26,  "time": "00:40", "prices": { "1-2": 50,  "3-8": 55,  "9-14": "On request" } },
+      { "destination": "Split center",                       "km": 26,  "time": "00:40", "prices": { "1-2": 50,  "3-8": 55,  "9-14": "On request" } },
       { "destination": "Split hotels",                       "km": 24,  "time": "00:35", "prices": { "1-2": 50,  "3-8": 55,  "9-14": "On request" } },
       { "destination": "Srima",                              "km": 80,  "time": "01:20", "prices": { "1-2": 100, "3-8": 110, "9-14": "On request" } },
       { "destination": "Stanići",                           "km": 52,  "time": "01:00", "prices": { "1-2": 75,  "3-8": 85,  "9-14": "On request" } },
@@ -82,7 +83,6 @@
       { "destination": "Živogošće",                          "km": 118, "time": "01:45", "prices": { "1-2": 130, "3-8": 150, "9-14": "On request" } }
     ],
     "Split Center": [
-      { "destination": "Split Airport",                      "km": 24,  "time": "00:35", "prices": { "1-2": 50,  "3-8": 55,  "9-14": "On request" } },
       { "destination": "Dubrovnik Airport",                  "km": 253, "time": "03:45", "prices": { "1-2": 305, "3-8": 325, "9-14": "On request" } },
       { "destination": "Dubrovnik (hotels)",                 "km": 235, "time": "03:30", "prices": { "1-2": 300, "3-8": 330, "9-14": "On request" } },
       { "destination": "Dugopolje",                          "km": 21,  "time": "00:30", "prices": { "1-2": 50,  "3-8": 55,  "9-14": "On request" } },

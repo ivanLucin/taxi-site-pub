@@ -82,6 +82,7 @@
       { "destination": "Živogošće",                          "km": 118, "time": "01:45", "prices": { "1-2": 130, "3-8": 150, "9-14": "On request" } }
     ],
     "Split Center": [
+      { "destination": "Split Airport",                      "km": 24,  "time": "00:35", "prices": { "1-2": 50,  "3-8": 55,  "9-14": "On request" } },
       { "destination": "Dubrovnik Airport",                  "km": 253, "time": "03:45", "prices": { "1-2": 305, "3-8": 325, "9-14": "On request" } },
       { "destination": "Dubrovnik (hotels)",                 "km": 235, "time": "03:30", "prices": { "1-2": 300, "3-8": 330, "9-14": "On request" } },
       { "destination": "Dugopolje",                          "km": 21,  "time": "00:30", "prices": { "1-2": 50,  "3-8": 55,  "9-14": "On request" } },
